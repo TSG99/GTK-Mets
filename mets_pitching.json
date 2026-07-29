@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "A.J. Minter",
+    "Position": "P",
+    "ERA": "2.45",
+    "WHIP": "1.05",
+    "W": 1,
+    "L": 1,
+    "SV": 0,
+    "SO": 18,
+    "InningsPitched": "22.0"
+  },
+  {
+    "Name": "Brooks Raley",
+    "Position": "P",
+    "ERA": "2.15",
+    "WHIP": "1.17",
+    "W": 4,
+    "L": 5,
+    "SV": 0,
+    "SO": 38,
+    "InningsPitched": "37.2"
+  },
+  {
+    "Name": "Christian Scott",
+    "Position": "P",
+    "ERA": "3.13",
+    "WHIP": "1.26",
+    "W": 3,
+    "L": 2,
+    "SV": 0,
+    "SO": 78,
+    "InningsPitched": "63.1"
+  },
+  {
+    "Name": "Cionel P\u00e9rez",
+    "Position": "P",
+    "ERA": "5.35",
+    "WHIP": "1.55",
+    "W": 3,
+    "L": 3,
+    "SV": 0,
+    "SO": 37,
+    "InningsPitched": "38.2"
+  },
+  {
+    "Name": "Cionel P\u00e9rez",
+    "Position": "P",
+    "ERA": "6.19",
+    "WHIP": "1.69",
+    "W": 2,
+    "L": 3,
+    "SV": 0,
+    "SO": 9,
+    "InningsPitched": "16.0"
+  },
+  {
+    "Name": "Cionel P\u00e9rez",
+    "Position": "P",
+    "ERA": "4.76",
+    "WHIP": "1.46",
+    "W": 1,
+    "L": 0,
+    "SV": 0,
+    "SO": 28,
+    "InningsPitched": "22.2"
+  },
+  {
+    "Name": "Daniel Duarte",
+    "Position": "P",
+    "ERA": "0.00",
+    "WHIP": "0.47",
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "SO": 4,
+    "InningsPitched": "6.1"
+  },
+  {
+    "Name": "Devin Williams",
+    "Position": "P",
+    "ERA": "4.54",
+    "WHIP": "1.63",
+    "W": 3,
+    "L": 2,
+    "SV": 14,
+    "SO": 45,
+    "InningsPitched": "33.2"
+  },
+  {
+    "Name": "Freddy Peralta",
+    "Position": "P",
+    "ERA": "5.01",
+    "WHIP": "1.46",
+    "W": 5,
+    "L": 9,
+    "SV": 0,
+    "SO": 110,
+    "InningsPitched": "109.2"
+  },
+  {
+    "Name": "Huascar Brazob\u00e1n",
+    "Position": "P",
+    "ERA": "2.76",
+    "WHIP": "1.06",
+    "W": 4,
+    "L": 2,
+    "SV": 0,
+    "SO": 46,
+    "InningsPitched": "49.0"
+  },
+  {
+    "Name": "Kodai Senga",
+    "Position": "P",
+    "ERA": "8.85",
+    "WHIP": "1.84",
+    "W": 0,
+    "L": 7,
+    "SV": 0,
+    "SO": 49,
+    "InningsPitched": "40.2"
+  },
+  {
+    "Name": "Luis Torrens",
+    "Position": "C",
+    "ERA": "27.00",
+    "WHIP": "6.00",
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "SO": 0,
+    "InningsPitched": "0.1"
+  },
+  {
+    "Name": "Luke Weaver",
+    "Position": "P",
+    "ERA": "1.98",
+    "WHIP": "0.80",
+    "W": 2,
+    "L": 1,
+    "SV": 1,
+    "SO": 43,
+    "InningsPitched": "41.0"
+  },
+  {
+    "Name": "Nolan McLean",
+    "Position": "P",
+    "ERA": "3.34",
+    "WHIP": "1.09",
+    "W": 7,
+    "L": 6,
+    "SV": 0,
+    "SO": 135,
+    "InningsPitched": "113.1"
+  },
+  {
+    "Name": "Sean Manaea",
+    "Position": "P",
+    "ERA": "4.52",
+    "WHIP": "1.35",
+    "W": 2,
+    "L": 5,
+    "SV": 0,
+    "SO": 84,
+    "InningsPitched": "85.2"
+  },
+  {
+    "Name": "Zac Thornton",
+    "Position": "P",
+    "ERA": "1.93",
+    "WHIP": "0.86",
+    "W": 1,
+    "L": 1,
+    "SV": 0,
+    "SO": 17,
+    "InningsPitched": "23.1"
+  }
+]

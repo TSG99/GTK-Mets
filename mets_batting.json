@@ -1,0 +1,145 @@
+[
+  {
+    "Name": "A.J. Ewing",
+    "Position": "CF",
+    "AVG": ".269",
+    "OBP": ".340",
+    "SLG": ".419",
+    "HR": 7,
+    "RBI": 25,
+    "SB": 11,
+    "AtBats": 227
+  },
+  {
+    "Name": "Bo Bichette",
+    "Position": "3B",
+    "AVG": ".253",
+    "OBP": ".302",
+    "SLG": ".369",
+    "HR": 10,
+    "RBI": 51,
+    "SB": 1,
+    "AtBats": 407
+  },
+  {
+    "Name": "Brett Baty",
+    "Position": "3B",
+    "AVG": ".223",
+    "OBP": ".295",
+    "SLG": ".331",
+    "HR": 6,
+    "RBI": 33,
+    "SB": 5,
+    "AtBats": 305
+  },
+  {
+    "Name": "Carson Benge",
+    "Position": "RF",
+    "AVG": ".260",
+    "OBP": ".320",
+    "SLG": ".393",
+    "HR": 11,
+    "RBI": 40,
+    "SB": 16,
+    "AtBats": 377
+  },
+  {
+    "Name": "Francisco Alvarez",
+    "Position": "C",
+    "AVG": ".258",
+    "OBP": ".325",
+    "SLG": ".449",
+    "HR": 12,
+    "RBI": 26,
+    "SB": 0,
+    "AtBats": 225
+  },
+  {
+    "Name": "Francisco Lindor",
+    "Position": "SS",
+    "AVG": ".228",
+    "OBP": ".308",
+    "SLG": ".389",
+    "HR": 6,
+    "RBI": 16,
+    "SB": 2,
+    "AtBats": 180
+  },
+  {
+    "Name": "Jared Young",
+    "Position": "1B",
+    "AVG": ".255",
+    "OBP": ".330",
+    "SLG": ".439",
+    "HR": 7,
+    "RBI": 19,
+    "SB": 1,
+    "AtBats": 157
+  },
+  {
+    "Name": "Jorge Polanco",
+    "Position": "DH",
+    "AVG": ".161",
+    "OBP": ".215",
+    "SLG": ".241",
+    "HR": 1,
+    "RBI": 4,
+    "SB": 0,
+    "AtBats": 87
+  },
+  {
+    "Name": "Juan Soto",
+    "Position": "LF",
+    "AVG": ".283",
+    "OBP": ".408",
+    "SLG": ".539",
+    "HR": 21,
+    "RBI": 52,
+    "SB": 7,
+    "AtBats": 293
+  },
+  {
+    "Name": "Luis Robert Jr.",
+    "Position": "CF",
+    "AVG": ".214",
+    "OBP": ".306",
+    "SLG": ".367",
+    "HR": 4,
+    "RBI": 10,
+    "SB": 2,
+    "AtBats": 98
+  },
+  {
+    "Name": "Luis Torrens",
+    "Position": "C",
+    "AVG": ".228",
+    "OBP": ".290",
+    "SLG": ".327",
+    "HR": 2,
+    "RBI": 19,
+    "SB": 0,
+    "AtBats": 171
+  },
+  {
+    "Name": "Marcus Semien",
+    "Position": "2B",
+    "AVG": ".207",
+    "OBP": ".264",
+    "SLG": ".337",
+    "HR": 10,
+    "RBI": 30,
+    "SB": 6,
+    "AtBats": 309
+  },
+  {
+    "Name": "Tyrone Taylor",
+    "Position": "CF",
+    "AVG": ".228",
+    "OBP": ".269",
+    "SLG": ".449",
+    "HR": 7,
+    "RBI": 18,
+    "SB": 0,
+    "AtBats": 127
+  }
+]
