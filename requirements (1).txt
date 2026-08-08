@@ -1,0 +1,22 @@
+# LLM / embeddings (local inference via Ollama)
+ollama>=0.3.0
+
+# Structured data
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+python-dateutil>=2.9.0
+
+# MLB data
+MLB-StatsAPI>=1.7.2
+
+# Vector store (assumed Chroma — swap for faiss-cpu / faiss-gpu if that's your stack)
+chromadb>=0.5.0
+
+# UI
+gradio>=4.40.0
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.5.0
+pydantic>=2.8.0
