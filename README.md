@@ -92,9 +92,4 @@ ollama pull nomic-embed-text
 pip install -r requirements.txt
 
 # 3. Run the app
-python ui/app.py
-```
-
-## Status
-
-Active build. Router logic (classification, DB check, relevancy validation, degrade paths) is designed and documented here; see `DESIGN_DECISIONS.md` for the full rationale writeup used for interview prep.
+python 
